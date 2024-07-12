@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Zeyu's Homepage"
 title_separator          : "-"
-name                     : &name "Wang Zeyu"
+name                     : "Wang Zeyu"
 description              : &description "personal description"
 url                      : https://zeyuwang-zju.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,19 +22,19 @@ repository               : "zeyuwang-zju/zeyuwang-zju.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : "her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Wang Zeyu"
+  pronouns         : # "her"  
+  bio              : "PhD student at Zhejiang University"
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wangzeyu2020@zju.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=WAHvVqEAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-0985-4478"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
