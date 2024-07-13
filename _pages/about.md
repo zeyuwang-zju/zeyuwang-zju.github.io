@@ -13,7 +13,7 @@ My research interest includes Computer Vision (CV), Artificial Intelligence Gene
 
 News
 ======
-- 2024.06：Win the Second Place in CVPR 2024 Vast Vocabulary Visual Detection (V3Det) Challenge, 2024.
+- 2024.06：Win the Second Place in CVPR 2024 Vast Vocabulary Visual Detection (V3Det) Challenge, Open Vocabulary Object Detection Track.
 - 2024.05：One first-authored paper about Thermal Infrared Object Detection is accepted by IEEE Sensors Journal (ISJ).
 - 2024.01：One first-authored paper about Natural Image Inpainting is accepted by Multimedia Tools and Applications (MTAP).
 - 2023.07：One first-authored paper about Thermal Infrared Object Detection is accepted by ACM International Conference on Multimedia (MM), 2023.
