@@ -13,11 +13,11 @@ My research interest includes Computer Vision (CV), Generative Models / AIGC, an
 
 News
 ======
-- [2024.06]Win the Second Place in <font color=Blue>CVPR 2024 Vast Vocabulary Visual Detection (V3Det) Challenge</font>, Open Vocabulary Object Detection Track.
-- <font color=Purple>[2024.05]</font> One first-authored paper about Thermal Infrared Object Detection is accepted by __IEEE Sensors Journal (ISJ)__.
-- <font color=Purple>[2024.01]</font> One first-authored paper about Natural Image Inpainting is accepted by __Multimedia Tools and Applications (MTAP)__.
-- <font color=Purple>[2023.07]</font> One first-authored paper about Thermal Infrared Object Detection is accepted by __ACM International Conference on Multimedia (MM)__, 2023.
-- <font color=Purple>[2023.02]</font> One first-authored paper about Thermal Image Inpainting is accepted by __IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)__, 2023.
+- [2024.06] We win the Second Place in <font color=Blue>CVPR 2024 Vast Vocabulary Visual Detection (V3Det) Challenge</font>, Open Vocabulary Object Detection Track.
+- [2024.05] One first-authored paper about Thermal Infrared Object Detection is accepted by <font color=Blue>IEEE Sensors Journal (ISJ)</font>.
+- [2024.01] One first-authored paper about Natural Image Inpainting is accepted by <font color=Blue>Multimedia Tools and Applications (MTAP)</font>.
+- [2023.07] One first-authored paper about Thermal Infrared Object Detection is accepted by <font color=Blue>ACM International Conference on Multimedia, 2023 (MM)</font>.
+- [2023.02] One first-authored paper about Thermal Image Inpainting is accepted by <font color=Blue>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023</font>.
 
 Research Interests
 ======
