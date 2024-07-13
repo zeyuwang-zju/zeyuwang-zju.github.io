@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 I am pursuing the Ph.D degree at College of Information Science & Electronic Engineering, Zhejiang University, under the supervision of Prof. Kejie Huang. From Dec. 2022 to Jun. 2023, I was a visiting research assistant at the Institute for Infocomm Research (I2R), Agency for Science, Technology and Research (A*STAR), Singapore, cooperating with Scientist Wenyu Jiang.
+
 My research interest includes Computer Vision (CV), Artificial Intelligence Generated Content (AIGC), and Multi-Modal Learning (MML). If you are interested, feel free to email me at wangzeyu2020@zju.edu.cn.
 
 A data-driven personal website
