@@ -1,8 +1,8 @@
 ---
 title: "Thermal Infrared Image Inpainting Via Edge-Aware Guidance"
 collection: publications
-permalink: /publication/TIR-Fill
-excerpt: '\textbf{Zeyu Wang}, Haibin Shen, Changyou Men, Quan Sun, Kejie Huang'
+permalink: /publication/2023_ICASSP_Thermal_Infrared_Image_Inpainting_Via_Edge-Aware_Guidance
+excerpt: 'Zeyu Wang, Haibin Shen, Changyou Men, Quan Sun, Kejie Huang'
 date: 2023-02-16
 venue: 'IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
 paperurl: 'http://zeyuwang-zju.github.io/files/2023_ICASSP_Thermal_Infrared_Image_Inpainting_Via_Edge-Aware_Guidance.pdf'
