@@ -2,7 +2,7 @@
 title: "A Fourier-Transform-Based Framework with Asymptotic Attention for Mobile Thermal InfraRed Object Detection"
 collection: publications
 permalink: /publication/2024_ISJ_A_Fourier-Transform-Based_Framework_With_Asymptotic_Attention_for_Mobile_Thermal_InfraRed_Object_Detection
-excerpt: '__Zeyu Wang__, Haibin Shen, Wenyu Jiang , Kejie Huang'
+excerpt: '__Zeyu Wang__, Haibin Shen, Wenyu Jiang, Kejie Huang'
 date: 2024-05-01
 venue: 'IEEE Sensors Journal (ISJ)'
 paperurl: 'http://zeyuwang-zju.github.io/files/2024_ISJ_A_Fourier-Transform-Based_Framework_With_Asymptotic_Attention_for_Mobile_Thermal_InfraRed_Object_Detection.pdf'
