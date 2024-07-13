@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Zeyu's Homepage"
 title_separator          : "-"
 name                     : "Wang Zeyu"
 description              : &description "personal description"
