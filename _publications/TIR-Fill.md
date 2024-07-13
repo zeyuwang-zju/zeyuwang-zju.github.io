@@ -1,7 +1,7 @@
 ---
 title: "Thermal Infrared Image Inpainting Via Edge-Aware Guidance"
 collection: publications
-permalink: [/publication/2009-10-01-paper-title-number-1](https://ieeexplore.ieee.org/abstract/document/10096281/)
+permalink: /publication/TIR-Fill
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-02-16
 venue: 'IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
