@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024_Enhanced_Object_Detection
 excerpt: 'Peixi Wu, Bosong Chai, Xuan Nie, Longquan Yan, __Zeyu Wang__, Qifan Zhou, Boning Wang'
 date: 2024-06-05
-venue: 'Computer Vision and Pattern Recognition (CVPR) Vast Vocabulary Visual Detection (V3Det) Challenge, 2024'
+venue: 'Computer Vision and Pattern Recognition (CVPR) V3Det Challenge'
 paperurl: 'http://zeyuwang-zju.github.io/files/2024_Enhanced_Object_Detection.pdf'
 ---
 
