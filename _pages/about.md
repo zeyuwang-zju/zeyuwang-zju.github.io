@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Short Bio"
+title: "Short Biograhy"
 author_profile: true
 redirect_from: 
   - /about/
