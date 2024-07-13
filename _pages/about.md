@@ -13,7 +13,7 @@ My research interest includes Computer Vision (CV), Generative Models / AIGC, an
 
 News
 ======
-- <font color=Purple>[2024.06]</font>Win the Second Place in __CVPR 2024 Vast Vocabulary Visual Detection (V3Det) Challenge__, Open Vocabulary Object Detection Track.
+- <font color=Purple>[2024.06]</font>Win the Second Place in <font color=Blue>CVPR 2024 Vast Vocabulary Visual Detection (V3Det) Challenge</font>, Open Vocabulary Object Detection Track.
 - <font color=Purple>[2024.05]</font> One first-authored paper about Thermal Infrared Object Detection is accepted by __IEEE Sensors Journal (ISJ)__.
 - <font color=Purple>[2024.01]</font> One first-authored paper about Natural Image Inpainting is accepted by __Multimedia Tools and Applications (MTAP)__.
 - <font color=Purple>[2023.07]</font> One first-authored paper about Thermal Infrared Object Detection is accepted by __ACM International Conference on Multimedia (MM)__, 2023.
