@@ -17,6 +17,7 @@ News
 - __[2024.05]__ One first-authored paper is accepted by <font color=Blue>IEEE Sensors Journal (ISJ)</font>.
 - __[2024.01]__ One first-authored paper is accepted by <font color=Blue>Multimedia Tools and Applications (MTAP)</font>.
 - __[2023.07]__ One first-authored paper is accepted by <font color=Blue>ACM MM 2023</font>.
+- __[2023.06]__ Finish my visiting at A*STAR, Singapore.
 - __[2023.02]__ One first-authored paper is accepted by <font color=Blue>IEEE ICASSP 2023</font>.
 
 Research Interests
