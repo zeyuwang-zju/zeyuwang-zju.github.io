@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Zhejiang University, 2025 (expected)
-* B.E. in Soochow University, 2020
+* B.Eng. in Soochow University, 2020
 
 Work experience
 ======
