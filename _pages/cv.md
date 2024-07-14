@@ -12,33 +12,21 @@ redirect_from:
 Education
 ======
 * Ph.D in Zhejiang University, 2025 (expected)
-* B.Eng. in Soochow University, 2020
+* B.Eng in Soochow University, 2020
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* __[2022.12-2023.06]__ Visiting Research Assistant
+  * Agency for Science, Technology and Research (A*STAR), Singapore
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* __[2021.09-2021.12]__ Project Intern
+  * Huawei Technologies Co., Ltd
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Project
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* __[2022.01-2023.12]__ VIVO-ZJU Cooperation Project
+* __[2021.09-2021.12]__ Huawei Ascend Development Project
+
 
 Publications
 ======
@@ -46,18 +34,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
-Teaching
+Academic Service
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Reviewer of ACM MM, AAAI, ICASSP, ECCV, IEEE TCASII.
