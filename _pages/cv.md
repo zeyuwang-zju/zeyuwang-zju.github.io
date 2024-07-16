@@ -17,7 +17,7 @@ Education
 Experience
 ======
 * __[2022.12-2023.06]__ Visiting Research Assistant at Agency for Science, Technology and Research (A*STAR), Singapore.
-* __[2021.09-2021.12]__ Project Intern at Huawei Technologies Co., Ltd.
+* __[2021.09-2021.12]__ Project Intern at Huawei Technologies Co., Ltd, China.
 
 Project
 ======
