@@ -2,7 +2,7 @@
 title: "TIRDet: Mono-Modality Thermal InfraRed Object Detection Based on Prior Thermal-To-Visible Translation"
 collection: publications
 permalink: /publication/2023_MM_TIRDet_Mono_Modality_Thermal_InfraRed_Object_Detection
-excerpt: '__Zeyu Wang__, Fabien Colonnier, Jinghong Zheng, Jyotibdha Acharya, Wenyu Jiang, Kejie Huang.'
+excerpt: '__Zeyu Wang__, Fabien Colonnier, Jinghong Zheng, Jyotibdha Acharya, Wenyu Jiang, Kejie Huang'
 date: 2023-07-17
 venue: ' ACM International Conference on Multimedia (MM)'
 paperurl: 'http://zeyuwang-zju.github.io/files/2023_MM_TIRDet_Mono-Modality_Thermal_InfraRed_Object_Detection.pdf'
