@@ -18,7 +18,6 @@ Experience
 ======
 * __[2024.08-Now]__ Intern (Algorithm Engineer) at 2012 Lab, Huawei Technologies Co., Ltd, China.
 * __[2022.12-2023.06]__ Visiting Research Assistant at Agency for Science, Technology and Research (A*STAR), Singapore.
-* __[2021.09-2021.12]__ Project Intern at Huawei Technologies Co., Ltd, China.
 
 Project
 ======
