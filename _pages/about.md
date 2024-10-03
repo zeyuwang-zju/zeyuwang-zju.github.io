@@ -13,8 +13,8 @@ My research interest includes Computer Vision (CV), Generative Models (AIGC), an
 
 News
 ======
+- __[2024.10]__ One paper accepted by <font color=Blue>ACM ASPLOS 2025</font>.
 - __[2024.08]__ One first-authored paper accepted by <font color=Blue>IEEE TCE</font>.
-- __[2024.07]__ Complete the recent two works on diffusion models (DiffX and UP-Diff).
 - __[2024.06]__ Win the Second Place in <font color=Blue>CVPR 2024 V3Det Challenge</font>.
 - __[2024.05]__ One first-authored paper accepted by <font color=Blue>IEEE ISJ</font>.
 - __[2024.01]__ One first-authored paper accepted by <font color=Blue>MTAP</font>.
