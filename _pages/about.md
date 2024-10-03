@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am pursuing the Ph.D degree at College of Information Science & Electronic Engineering, Zhejiang University, supervised by Prof. Kejie Huang. From Dec. 2022 to Jun. 2023, I was a visiting research assistant at the Institute for Infocomm Research (I2R), Agency for Science, Technology and Research (A*STAR), Singapore, cooperating with Scientist Wenyu Jiang. I also cooperate with Huawei and VIVO in many AI-related projects. I am now having my internship at 2012 Lab, Huawei Technologies Ltd. Co.
+I am pursuing the Ph.D degree at College of Information Science & Electronic Engineering, Zhejiang University, supervised by Prof. Kejie Huang. From Dec. 2022 to Jun. 2023, I was a visiting research assistant at the Institute for Infocomm Research (I2R), Agency for Science, Technology and Research (A*STAR), Singapore, cooperating with Scientist Wenyu Jiang. I also cooperate with Huawei and VIVO in many AI-related projects. I am now having my internship at 2012 Lab, Huawei Technologies Co., Ltd.
 
 My research interest includes Computer Vision (CV), Generative Models (AIGC), and AI Network Optimization. __Email__: wangzeyu2020@zju.edu.cn.
 
