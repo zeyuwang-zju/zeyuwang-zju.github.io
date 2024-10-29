@@ -17,7 +17,7 @@ The following are my news in the past two years：
 - __[2024.10]__ One paper is accepted by <font color=Blue>ACM ASPLOS 2025</font>.
 - __[2024.09]__ One paper is accepted by <font color=Blue>IEEE SPL</font>.
 - __[2024.08]__ Start my internship at 2012 Lab, Huawei Technologies Co., Ltd, China.
-- __[2024.08]__ One first-authored paper accepted by <font color=Blue>IEEE TCE</font>.
+- __[2024.08]__ One paper is accepted by <font color=Blue>IEEE TCE</font>.
 - __[2024.06]__ Win the Second Place in <font color=Blue>CVPR 2024 V3Det Challenge</font>.
 - __[2024.05]__ One paper is accepted by <font color=Blue>IEEE ISJ</font>.
 - __[2024.01]__ One paper is accepted by <font color=Blue>MTAP</font>.
