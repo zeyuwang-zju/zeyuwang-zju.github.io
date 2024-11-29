@@ -19,7 +19,7 @@ The following are my news in the past two years：
 - __[2024.08]__ Start my internship at 2012 Lab, Huawei Technologies Co., Ltd, China.
 - __[2024.08]__ One paper is accepted by <font color=Blue>IEEE TCE</font>.
 - __[2024.06]__ Win the Second Place in <font color=Blue>CVPR 2024 V3Det Challenge</font>.
-- __[2024.05]__ One paper is accepted by <font color=Blue>IEEE ISJ</font>.
+- __[2024.05]__ One paper is accepted by <font color=Blue>IEEE JSEN</font>.
 - __[2024.01]__ One paper is accepted by <font color=Blue>MTAP</font>.
 - __[2023.07]__ One paper is accepted by <font color=Blue>ACM MM 2023</font>.
 - __[2023.06]__ Finish my visiting at A*STAR, Singapore.
