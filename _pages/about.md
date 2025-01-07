@@ -14,7 +14,7 @@ My research interest includes Generative Models (AIGC), Computer Vision (CV) and
 News
 ======
 The following are my news in the past two years：
-- __[2024.12]__ One paper is accepted by <font color=Blue>IEEE GRSL</font>.
+- __[2025.01]__ Two papers are accepted by <font color=Blue>IEEE GRSL</font>.
 - __[2024.12]__ Two papers are accepted by <font color=Blue>AAAI 2025</font>.
 - __[2024.10]__ One paper is accepted by <font color=Blue>ACM ASPLOS 2025</font>.
 - __[2024.09]__ One paper is accepted by <font color=Blue>IEEE SPL</font>.
