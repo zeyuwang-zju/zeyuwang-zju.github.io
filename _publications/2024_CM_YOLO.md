@@ -3,7 +3,7 @@ title: "Cross-Modal Adaptation for Object Detection in InfraRed Remote Sensing I
 collection: publications
 permalink: /publication/2024_UP_Diff_Latent_Diffusion_Model_for_Remote_Sensing_Urban_Prediction
 excerpt: '__Zeyu Wang__, Shuaiting Li, Kejie Huang'
-date: 2024-07-15
+date: 2025-01-07
 venue: 'IEEE Geoscience and Remote Sensing Letters (GRSL)'
 ---
 
